@@ -1,0 +1,54 @@
+2020-04-22T01:30:15.232Z - normal: Load ~/.CocosCreator/settings.json
+2020-04-22T01:30:15.236Z - normal: checking language setting...
+2020-04-22T01:30:15.236Z - normal: Language: zh
+2020-04-22T01:30:17.246Z - success: protocol editor-framework registered
+2020-04-22T01:30:17.247Z - success: protocol app registered
+2020-04-22T01:30:17.247Z - success: protocol theme registered
+2020-04-22T01:30:17.247Z - success: protocol packages registered
+2020-04-22T01:30:17.247Z - success: protocol unpack registerred
+2020-04-22T01:30:17.247Z - success: protocol disable-commonjs registerred
+2020-04-22T01:30:17.397Z - normal: connected!
+2020-04-22T01:30:17.400Z - normal: Check project C:\Users\Admin\Desktop\happydiff
+2020-04-22T01:30:17.401Z - normal: Initializing Cocos2d
+2020-04-22T01:30:17.727Z - normal: Initializing Asset Database
+2020-04-22T01:30:17.767Z - success: protocol uuid registerred
+2020-04-22T01:30:17.767Z - success: protocol db registerred
+2020-04-22T01:30:17.767Z - success: protocol thumbnail registerred
+2020-04-22T01:30:17.767Z - normal: Loading editor/builtin packages
+2020-04-22T01:30:17.791Z - success: anysdk loaded
+2020-04-22T01:30:17.922Z - success: assets loaded
+2020-04-22T01:30:17.924Z - success: builder loaded
+2020-04-22T01:30:17.927Z - success: cocos-analytics loaded
+2020-04-22T01:30:17.930Z - success: console loaded
+2020-04-22T01:30:17.933Z - success: hierarchy loaded
+2020-04-22T01:30:17.937Z - success: inspector loaded
+2020-04-22T01:30:17.938Z - success: keystore loaded
+2020-04-22T01:30:17.941Z - success: node-library loaded
+2020-04-22T01:30:17.943Z - success: package-asset loaded
+2020-04-22T01:30:17.946Z - success: preferences loaded
+2020-04-22T01:30:17.947Z - success: project-exporter loaded
+2020-04-22T01:30:17.976Z - success: project-importer loaded
+2020-04-22T01:30:17.979Z - success: project-settings loaded
+2020-04-22T01:30:17.981Z - success: ui-kit loaded
+2020-04-22T01:30:17.984Z - success: ui-grid loaded
+2020-04-22T01:30:17.988Z - success: scene loaded
+2020-04-22T01:30:17.990Z - success: sprite-editor loaded
+2020-04-22T01:30:17.993Z - success: store loaded
+2020-04-22T01:30:17.999Z - success: timeline loaded
+2020-04-22T01:30:17.999Z - normal: Loading builtin packages
+2020-04-22T01:30:18.002Z - success: asset-db-debugger loaded
+2020-04-22T01:30:18.004Z - success: code-editor loaded
+2020-04-22T01:30:18.005Z - success: color-picker loaded
+2020-04-22T01:30:18.007Z - success: package-manager loaded
+2020-04-22T01:30:18.012Z - success: sdkbox loaded
+2020-04-22T01:30:18.015Z - success: tester loaded
+2020-04-22T01:30:18.017Z - success: ui-kit-preview-extra loaded
+2020-04-22T01:30:18.018Z - success: ui-kit-preview loaded
+2020-04-22T01:30:18.019Z - success: ui-tree loaded
+2020-04-22T01:30:19.252Z - normal: Initializing project C:\Users\Admin\Desktop\happydiff
+2020-04-22T01:30:19.258Z - normal: Loading packages
+2020-04-22T01:30:19.264Z - normal: Watching packages
+2020-04-22T01:30:19.277Z - normal: Run Application
+2020-04-22T01:30:21.779Z - success: preview server running at http://localhost:7456
+2020-04-22T01:30:27.221Z - normal: 1.8.2
+2020-04-22T02:46:41.249Z - info: shutdown preview server

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiemina2",
+    "texture": "1888efbe-b0e5-4efe-a191-9a2669a765cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      323,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      35
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tubiao4",
+    "texture": "264ee5a1-e0a9-460d-869d-ebe1472f0683",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      136,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      120
+    ]
+  }
+}

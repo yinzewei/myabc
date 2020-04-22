@@ -1,0 +1,98 @@
+#/////////////////////////////////////////////////////////////////////////////
+# Fireball Projects
+#/////////////////////////////////////////////////////////////////////////////
+
+library/
+temp/
+local/
+node_modules/
+
+#build/jsb-default/frameworks/cocos2d-x
+build/jsb-default/frameworks/runtime-src/proj.android-studio/app/.externalNativeBuild
+build/jsb-default/frameworks/runtime-src/proj.android-studio/app/release
+build/jsb-default/frameworks/runtime-src/proj.win32/.vs
+build/jsb-default/frameworks/runtime-src/proj.win32/Debug.win32
+build/jsb-default/frameworks/runtime-src/proj.win32/res
+build/jsb-default/js backups (useful for debugging)
+build/jsb-default/jsb-adapter
+build/jsb-default/publish
+build/jsb-default/res
+build/jsb-default/simulator
+build/jsb-default/src
+
+build/jsb-link/frameworks/runtime-src/proj.android-studio/app/.externalNativeBuild
+build/jsb-link/frameworks/runtime-src/proj.android-studio/app/release
+build/jsb-link/frameworks/runtime-src/proj.win32/.vs
+build/jsb-link/frameworks/runtime-src/proj.win32/Debug.win32
+build/jsb-link/js backups (useful for debugging)
+build/jsb-link/jsb-adapter
+build/jsb-link/publish
+build/jsb-link/res
+build/jsb-link/simulator
+build/jsb-link/src
+
+build/web-mobile/res
+build/web-mobile/src
+build/web-mobile/cocos2d-js-min.js
+
+export/
+
+#/////////////////////////////////////////////////////////////////////////////
+# Logs and databases
+#/////////////////////////////////////////////////////////////////////////////
+
+*.log
+*.sql
+*.sqlite
+
+#/////////////////////////////////////////////////////////////////////////////
+# files for debugger
+#/////////////////////////////////////////////////////////////////////////////
+
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+
+#/////////////////////////////////////////////////////////////////////////////
+# OS generated files
+#/////////////////////////////////////////////////////////////////////////////
+
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+#/////////////////////////////////////////////////////////////////////////////
+# exvim files
+#/////////////////////////////////////////////////////////////////////////////
+
+*UnityVS.meta
+*.err
+*.err.meta
+*.exvim
+*.exvim.meta
+*.vimentry
+*.vimentry.meta
+*.vimproject
+*.vimproject.meta
+.vimfiles.*/
+.exvim.*/
+quick_gen_project_*_autogen.bat
+quick_gen_project_*_autogen.bat.meta
+quick_gen_project_*_autogen.sh
+quick_gen_project_*_autogen.sh.meta
+.exvim.app
+
+#/////////////////////////////////////////////////////////////////////////////
+# webstorm files
+#/////////////////////////////////////////////////////////////////////////////
+
+.idea/
+
+#//////////////////////////
+# VS Code
+#//////////////////////////
+
+.vscode/
+sh.exe.stackdump
+build/jsb-default/frameworks/runtime-src/proj.android-studio/app/Piano.iml
